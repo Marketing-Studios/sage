@@ -43,7 +43,7 @@ SAGE sits between your terminal and AI coding agents:
 - Keeps full raw command output locally for recovery
 - Tracks token savings and command success metrics
 - Connects to the SAGE API with GitHub OAuth
-- Installs local agent instructions so Codex, Claude Code, and other terminal agents know to use SAGE
+- Installs local agent instructions so Codex, Claude Code, (Ollama) and other terminal AI agents know to use SAGE
 - Reports privacy-safe aggregate stats to the public dashboard
 
 ## Installation
