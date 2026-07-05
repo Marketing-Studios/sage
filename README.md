@@ -31,6 +31,7 @@ Latest verified snapshot:
 | Compression rate | 93.02% |
 | Success rate | 96.69% |
 
+This stats are only after going Live - Since July  
 Raw commands, outputs, file paths, and logs stay local by default. Public proof uses aggregate counters only.
 
 ## What SAGE Does
